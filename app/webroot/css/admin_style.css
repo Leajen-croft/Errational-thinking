@@ -1,0 +1,131 @@
+		/*css reset*/
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		/*logo replacement*/
+		.replace{	
+			width: 259px;
+  			height: 161px;
+  			background: url('../uploads/images/logo3.jpg');
+			text-indent: 100%;
+			white-space: nowrap;
+		  	overflow: hidden;
+		}
+		/*center the elements with the center class*/
+		.center{ 
+			margin: 0 auto;
+		}
+		/*main page styling*/
+		body, html{
+			height: 100%;
+		}
+		body{
+			background-color: #FFFF66;
+		}
+		#wrapper{
+			margin:0 auto;
+	 		width:100%; 
+	 		min-height:100%; 
+			}
+		.left_bar{ 
+			float: left;
+			background-color: #000;
+			width:270px;
+			min-height: 100%;
+			position: fixed;
+		}
+		footer{
+			clear:both;
+			width:100%; 
+			height:35px;
+			background:#000;
+		}
+		.mainContent{
+			float:left;
+			width:75%;
+			padding-left:280px;
+		}
+		.log-out{
+			float: right;
+			margin-right: 20px;
+		}
+		table{
+			width: 100%;
+			text-align: center;
+			border-collapse: collapse;
+		}
+		tr:nth-child(even){
+			background-color:#FFF;
+		}
+		tr:nth-child(odd){
+			background-color:#EEE;
+		}
+		td,th{
+			border:2px solid #CCC;
+		}
+		.issue-pic{
+			width:260px;
+			height: 360px;
+		}
+		.partner-pic{
+			width:200px;
+			height: 200px;
+		}
+		img{
+			display:block;
+			 max-width:100%;
+			 max-height:100%;
+		}
+		/*links and text*/
+		ul{ 
+			list-style-type:none;
+		}
+		a.adminNav{	
+			display:block;
+			padding-bottom:20px;
+			width:100%;
+			font-family: 'Roboto', sans-serif;
+			text-decoration:none;
+			font-size: 1.1em;
+			color: #FFF; 
+		}
+		a{	
+			display:block;
+			padding-bottom:20px;
+			width:100%;
+			font-family: 'Roboto', sans-serif;
+			text-decoration:none;
+			font-size: 1em;
+			color: #555; 
+		}
+		a:hover {
+			text-decoration: underline;
+		}
+		.footerText{
+			color:#FFF;
+			float:right;
+			padding-right:10px;
+		}
+		h2{
+			font-family: 'Roboto', sans-serif;
+			font-size: 1.313em;
+		}
+		p {
+			font-family: 'Roboto', sans-serif;
+			font-size: 1em;
+		}
+	/*form styleing*/
+		textarea{
+			width:90%;
+			height:600px;
+		}
+		textarea,input[type=text],label{
+			font-family: 'Roboto', sans-serif;
+			font-size: 1em
+		}
+		@media screen and (max-width: 1150px){
+			.mainContent{
+				width:50%;
+			}
+		}

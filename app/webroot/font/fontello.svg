@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2014 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="mail-alt" unicode="&#xe803;" d="m1000 454v-443q0-37-26-63t-63-27h-822q-36 0-63 27t-26 63v443q25-28 56-49q202-137 278-192q32-24 51-37t53-27t61-13h2q28 0 61 13t53 27t51 37q95 68 278 192q32 22 56 49z m0 164q0-44-27-84t-68-69q-210-146-262-181q-5-4-23-17t-30-22t-29-18t-33-15t-27-5h-2q-12 0-27 5t-33 15t-29 18t-30 22t-23 17q-51 35-147 101t-114 80q-35 23-65 64t-31 77q0 43 23 72t66 29h822q36 0 62-26t27-63z" horiz-adv-x="1000" />
+<glyph glyph-name="facebook-squared" unicode="&#xe800;" d="m729 338l13 122h-110v61q0 27 8 38t40 11h62v122h-98q-85 0-122-40t-36-119v-73h-74v-122h74v-355h146v355h97z m128 280v-536q0-66-47-113t-114-48h-535q-67 0-114 48t-47 113v536q0 66 47 113t114 48h535q67 0 114-48t47-113z" horiz-adv-x="857.1" />
+<glyph glyph-name="tumblr-squared" unicode="&#xe802;" d="m627 64v101q-49-31-97-31q-29 0-50 12q-16 10-21 25q-6 17-6 72v165h152v101h-152v162h-92q-6-50-22-82t-44-55q-27-22-64-35v-91h70v-225q0-44 10-68q9-23 33-44q24-20 58-31q34-11 78-11q37 0 72 7q32 8 75 28z m230 554v-536q0-66-47-113t-114-48h-535q-67 0-114 48t-47 113v536q0 66 47 113t114 48h535q67 0 114-48t47-113z" horiz-adv-x="857.1" />
+<glyph glyph-name="twitter-squared" unicode="&#xe801;" d="m714 510q-31-14-67-19q38 22 52 65q-37-21-75-29q-34 37-85 37q-49 0-83-34t-35-83q0-16 3-27q-72 4-135 37t-107 86q-16-28-16-59q0-64 51-98q-27 1-56 15v-1q0-42 28-75t68-40q-16-5-28-5q-7 0-22 2q12-35 42-58t67-23q-64-50-145-50q-15 0-28 1q82-52 180-52q62 0 117 20t93 53t68 76t42 91t13 94q0 10 0 15q35 25 58 61z m143 108v-536q0-66-47-113t-114-48h-535q-67 0-114 48t-47 113v536q0 66 47 113t114 48h535q67 0 114-48t47-113z" horiz-adv-x="857.1" />
+</font>
+</defs>
+</svg>

@@ -1,0 +1,4 @@
+ErrorDocument 401 http://errationalthinkingmagazine.co.uk/site_maintenance.html
+ErrorDocument 404 "404 page not found"
+
+
